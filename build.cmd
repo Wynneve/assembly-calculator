@@ -1,0 +1,1 @@
+ml64 app.asm /link /debug /entry:main

@@ -1,0 +1,9 @@
+T_NUMBER        textequ <010h>
+T_PLUS          textequ <011h>
+T_MINUS         textequ <012h>
+T_STAR          textequ <013h>
+T_SLASH         textequ <014h>
+T_U_MINUS       textequ <015h>
+T_LEFTPARENS    textequ <016h>
+T_RIGHTPARENS   textequ <017h>
+T_UNKNOWN       textequ <0FFh>
